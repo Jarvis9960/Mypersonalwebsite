@@ -1,0 +1,148 @@
+.Topcontainer {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5.635rem;
+  color: #66BFBF;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: 'Aclonica', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: lighter;
+  padding-bottom: 10px;
+}
+
+p {
+  font-family: 'Aclonica', sans-serif;
+  line-height: 2.5;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-color: grey;
+  border-top-width: 8px;
+  width: 5%;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Aclonica', sans-serif;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.Middlecontainer {
+  margin: 100px 0;
+}
+
+.Bottomcontainer {
+  background-color: #66BFBF;
+  padding: 40px 0 40px 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 120px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px;
+}
+
+.web {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.pic {
+  width: 15%;
+}
+
+.java {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Intro {
+  width: 30%;
+  margin: auto;
+}
+
+.Outro {
+  width: 40%;
+  margin: auto;
+}
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Aclonica', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 40px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.contact-me {
+  margin-bottom: 60px;
+  padding-bottom: 50px;
+}
+
+.footer-link {
+  padding: 0 40px 0 40px;
+  color: #11999E;
+}
+
+.copyright {
+  padding-top: 30px;
+  color: #EAF6F6;
+  font-size: 1.5rem;
+}
